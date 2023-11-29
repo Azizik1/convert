@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">convert</string>
+    <string name="convert_button_text">Convert</string>
+</resources>
